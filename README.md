@@ -1,5 +1,5 @@
 # Samsung SmartThings Internet of Things (IoT) datasets
-The datasets are used for SmartSense, which is a paper submitted to CIKM 2022.
+This project is the repository of datasets used in "Accurate Action Recommendation for Smart Home via Two-Level Encoders and Commonsense Knowledge" (CIKM 2022).
 
 We provide datasets collected from SmartThings which is a worldwide Internet of Things (IoT) platform with 62 million users. 
 Our datasets consist of log datasets, routine datasets, and dictionaries.
@@ -21,3 +21,17 @@ We have two versions of Europe routine datasets for Spain and France since the d
 ### Dictionary
 A Dictionary define name-to-id mappings of day of weeks, hours, devices, and device controls.
 We provide the dictionaries as: `dictionary.py`.
+### Citation
+Please cite the following paper if you use our datasets.
+```
+@inproceedings{JeonKYLK22,
+  author    = {Hyunsik Jeon and
+               Jongjin Kim and
+               Hoyoung Yoon and
+               Jaeri Lee and
+               U Kang},
+  title     = {Accurate Action Recommendation for Smart Home via Two-Level Encoders and Commonsense Knowledge},
+  booktitle = {CIKM},
+  year      = {2022},
+}
+```
