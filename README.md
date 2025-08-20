@@ -25,14 +25,12 @@ We provide the dictionaries as: `dictionary.py`.
 ### Citation
 Please cite the following paper if you use our datasets.
 ```
-@inproceedings{DBLP:conf/cikm/JeonKYLK22,
+@inproceedings{cikm/JeonKYLK22,
   author    = {Hyunsik Jeon and
                Jongjin Kim and
                Hoyoung Yoon and
                Jaeri Lee and
                U Kang},
-  editor    = {Mohammad Al Hasan and
-               Li Xiong},
   title     = {Accurate Action Recommendation for Smart Home via Two-Level Encoders
                and Commonsense Knowledge},
   booktitle = {Proceedings of the 31st {ACM} International Conference on Information
@@ -40,6 +38,5 @@ Please cite the following paper if you use our datasets.
   pages     = {832--841},
   publisher = {{ACM}},
   year      = {2022},
-  doi       = {10.1145/3511808.3557226},
 }
 ```
